@@ -1,0 +1,6 @@
+{
+    "title": "Order Tracking - Costa Rica Azul",
+    "slug": "order-tracking",
+    "type": "page",
+    "content": "[woocommerce_order_tracking]"
+}

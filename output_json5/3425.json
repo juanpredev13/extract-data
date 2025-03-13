@@ -1,0 +1,7 @@
+{
+    "title": "Cart - Costa Rica Azul",
+    "slug": "cart",
+    "type": "page",
+    "content": "[woocommerce_cart]",
+    "tags": []
+}

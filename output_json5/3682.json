@@ -1,0 +1,7 @@
+{
+    "title": "Checkout - Costa Rica Azul",
+    "slug": "checkout",
+    "type": "page",
+    "content": "[woocommerce_checkout]",
+    "tags": []
+}
